@@ -1,0 +1,18 @@
+{
+  "name": "SWLic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SWLic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^116.0.0",
+    "express": "^4.18.2",
+    "express-basic-auth": "^1.2.1",
+    "selenium-webdriver": "^4.12.0"
+  }
+}
