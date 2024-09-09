@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chromedriver": "^116.0.0",
     "express": "^4.18.2",
     "express-basic-auth": "^1.2.1",
     "selenium-webdriver": "^4.12.0"
